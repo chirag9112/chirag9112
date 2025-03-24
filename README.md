@@ -5,13 +5,14 @@
 ---
 
 ## 🚀 About Me
-- 🎨 I love creating interactive and aesthetic designs
-- 💻 Experienced in frontend development
-- 📚 Currently exploring Web Animations and Micro-interactions
-- 🎯 Passionate about User Experience & Accessibility
-
+- ⚙️ Passionate **DevOps Engineer** optimizing workflows & automating processes  
+- ☁️ Experienced in **Cloud Infrastructure (AWS, Azure, GCP)**  
+- 🚀 Skilled in **CI/CD Pipelines, Containerization (Docker, Kubernetes)**  
+- 🔧 Always exploring new tools & best practices in DevOps  
+- 🎯 Advocate for **Infrastructure as Code (Terraform, Ansible)** and Open Source Contributions  
 ---
 
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 ## 📈 GitHub Stats
 ![Chirag GitHub stats](https://github-readme-stats.vercel.app/api?username=chirag9112&show_icons=true&theme=radical)
 
