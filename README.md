@@ -12,7 +12,7 @@
 - 🎯 Advocate for **Infrastructure as Code (Terraform, Ansible)** and Open Source Contributions  
 ---
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/chirag9112/chirag9112/main/web-developer-chilling.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/chirag9112/chirag9112/main/web-developer-chilling.gi">
 ## 📈 GitHub Stats
 ![Chirag GitHub stats](https://github-readme-stats.vercel.app/api?username=chirag9112&show_icons=true&theme=radical)
 
